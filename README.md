@@ -1,2 +1,0 @@
-# DISC
-DISease Counts

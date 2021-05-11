@@ -1,4 +1,4 @@
-#' Single data table from generated excel files
+#' Combine multiple weekly csv files in a single folder into a single tsibble.
 #'
 #'@description Weekly notified Dengue, Dysentery, Encephalitis, Enteric Fever,
 #'Food Poisioning, Leptospirosis, Typhus Fever, Viral Hepatistis, Human Rabies,
@@ -27,7 +27,6 @@ Processed_Data<-function(processed_data_path)
   return(Data_Counts)
 }
 #'@example
-#processed_data_path=setwd(here::here("dataraw"))
-#Processed_Data(processed_data_path)
-#load(file = "FinalData.Rda")
-#Data_Counts
+#'processed_data_path <- setwd(here::here("dataraw"))
+#'Processed_Data(processed_data_path)
+s

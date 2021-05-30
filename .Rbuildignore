@@ -1,2 +1,12 @@
+^_pkgdown\.yml$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^data-raw$
+^logo$
+^README\.Rmd$
+^README-.*\.png$
+^\.travis\.yml$
+^revdep$
+^docs$
+^codecov\.yml$
+^cran-comments\.md$

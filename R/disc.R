@@ -7,8 +7,6 @@
 #'\item{Week}{Week number to locate the week within a year}
 #'\item{StartData}{Starting date of the week}
 #'\item{EndData}{End date of the week}
-#'@source Weekly epidemiological reports published by the Epidemiological Unit, Ministry of Health, Sri Lanka
-#'}
 #'\item{Division}{Districts of Sri Lanka}
 #'\item{Dengue}{Weekly Dengue counts}
 #'\item{Dysentery}{Weekly Dysentery counts}
@@ -22,6 +20,8 @@
 #'\item{Chickenpox}{Weekly Chickenpox Counts}
 #'\item{Meningitis}{Weekly Meningitis Counts}
 #'\item{Leishmaniasis}{Weekly Leishmaniasis Counts}
+#'}
+#'@source Weekly epidemiological reports published by the Epidemiological Unit, Ministry of Health, Sri Lanka
 #'
 #'@examples
 #'data(Data_Counts)

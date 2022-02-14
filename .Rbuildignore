@@ -1,7 +1,7 @@
 ^_pkgdown\.yml$
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^data-raw$
+^dataraw$
 ^logo$
 ^README\.Rmd$
 ^README-.*\.png$
@@ -11,3 +11,4 @@
 ^codecov\.yml$
 ^cran-comments\.md$
 ^pdffiles$
+^test$
